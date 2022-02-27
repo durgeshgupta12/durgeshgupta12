@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" width="400" height="400" src="https://images.unsplash.com/photo-1546776310-eef45dd6d63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJvYm90JTIwZ2lmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"><br/>
 # Hi, I'm [Durgesh!](https://www.linkedin.com/in/durgeshgupta12/) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
+[![Linkedin Badge](https://img.shields.io/badge/-durgesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durgeshgupta12/)](https://www.linkedin.com/in/durgeshgupta12/)
 [![Website Badge](https://img.shields.io/badge/-zishugshan.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://zishugshan.github.io)](https://zishugshan.github.io)<br>
 [![Twitter Badge](https://img.shields.io/badge/-@_zishugshan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zishugshan)](https://twitter.com/zishugshan)
 [![Instagram Badge](https://img.shields.io/badge/-@_zeesha_.n-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zeesha_.n/)](https://instagram.com/zeesha_.n/)
