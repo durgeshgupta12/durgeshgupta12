@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-durgesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durgeshgupta12/)](https://www.linkedin.com/in/durgeshgupta12/)
 [![Website Badge](https://img.shields.io/badge/-zishugshan.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://zishugshan.github.io)](https://zishugshan.github.io)<br>
 [![Twitter Badge](https://img.shields.io/badge/-@_zishugshan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zishugshan)](https://twitter.com/zishugshan)
-[![Instagram Badge](https://img.shields.io/badge/-@_zeesha_.n-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zeesha_.n/)](https://instagram.com/zeesha_.n/)
-[![Gmail Badge](https://img.shields.io/badge/-zshnqmr1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zshnqmr1@gmail.com)](mailto:zshnqmr1@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@_durgesh_gupta12-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/durgesh_gupta12/)](https://instagram.com/durgesh_gupta12/)
+[![Gmail Badge](https://img.shields.io/badge/-durgeshkumargupta7261-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:durgeshkumargupta7261@gmail.com)](mailto:durgeshkumargupta7261@gmail.com)
 
 Welcome to my profile! I'm a student, aspiring [Software Developer](https://zishugshan.github.io), <br/>
 part-time adventure seeker and full-time explorer&Coder.<br/>
